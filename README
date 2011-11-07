@@ -1,13 +1,18 @@
 VideoPlayer
 ===========
 
-Introduction goes here.
+flash视频播放插件，基于for Flash Player 10.0
+测试与rails 2.3.8
+使用网站 yunshivideo.com
 
 
 Example
 =======
+1,copy swf file
+rake copy_video_player
+2,usage:
+video_player(url,true,500,400)
 
-Example goes here.
 
 
-Copyright (c) 2011 [name of plugin creator], released under the MIT license
+Copyright (c) 2011 [chucai(hexudong08@gmail.com)], released under the MIT license
